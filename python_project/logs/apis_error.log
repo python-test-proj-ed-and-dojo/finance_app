@@ -1,5 +1,0 @@
-[Sat Feb 22 18:10:27.264130 2020] [wsgi:error] [pid 3807:tid 140477038851840] [client 127.0.0.1:33794] No WSGI daemon process called 'python_project' has been configured: /mnt/python_project/python_project/python_project/wsgi.py
-[Sat Feb 22 18:10:27.327458 2020] [wsgi:error] [pid 3807:tid 140476963317504] [client 127.0.0.1:33796] No WSGI daemon process called 'python_project' has been configured: /mnt/python_project/python_project/python_project/wsgi.py
-[Sat Feb 22 18:11:25.271072 2020] [wsgi:error] [pid 3807:tid 140476929746688] [client 127.0.0.1:33798] No WSGI daemon process called 'python_project' has been configured: /mnt/python_project/python_project/python_project/wsgi.py
-[Sat Feb 22 18:11:26.409382 2020] [wsgi:error] [pid 3807:tid 140476879390464] [client 127.0.0.1:33800] No WSGI daemon process called 'python_project' has been configured: /mnt/python_project/python_project/python_project/wsgi.py
-[Sat Feb 22 18:11:29.718163 2020] [wsgi:error] [pid 3807:tid 140477005281024] [client 127.0.0.1:33802] No WSGI daemon process called 'python_project' has been configured: /mnt/python_project/python_project/python_project/wsgi.py
